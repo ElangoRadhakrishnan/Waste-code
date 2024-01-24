@@ -1,2 +1,2 @@
-# Waste-code
-This repo is Dummy code
+# Java-Interview QA
+This repo is Java QA
